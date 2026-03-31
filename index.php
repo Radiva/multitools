@@ -6,11 +6,11 @@ require 'includes/config.php';
 
 // ── SEO Meta untuk halaman ini ──
 $seo = [
-  'title'       => 'Multi Tools — Kumpulan Tools Online Gratis untuk Developer & Desainer',
-  'description' => 'Multi Tools menyediakan 30+ tools online gratis: text converter, image compressor, JSON formatter, QR generator, password generator, dan masih banyak lagi. Tanpa login, langsung pakai.',
-  'keywords'    => 'multi tools, tools online gratis, text converter, image compressor, JSON formatter, QR generator, password generator, developer tools, case converter, word counter, base64',
-  'og_title'    => 'Multi Tools — 30+ Tools Online Gratis',
-  'og_desc'     => 'Kumpulan tools serba guna untuk developer, desainer, dan siapa saja. Text tools, image tools, developer tools, dan kalkulator. Gratis, tanpa login.',
+  'title'       => 'Multi Tools — Kumpulan Tools Online untuk Developer & Desainer',
+  'description' => 'Multi Tools menyediakan 30+ tools online: text converter, image compressor, JSON formatter, QR generator, password generator, dan masih banyak lagi. Tanpa login, langsung pakai.',
+  'keywords'    => 'multi tools, tools online, text converter, image compressor, JSON formatter, QR generator, password generator, developer tools, case converter, word counter, base64',
+  'og_title'    => 'Multi Tools — 30+ Tools Online',
+  'og_desc'     => 'Kumpulan tools serba guna untuk developer, desainer, dan siapa saja. Text tools, image tools, developer tools, dan kalkulator. Tanpa login, langsung pakai.',
   'breadcrumbs' => [
     ['name' => 'Beranda', 'url' => SITE_URL . '/'],
   ],
@@ -20,10 +20,10 @@ $seo = [
       '@type'       => 'WebPage',
       '@id'         => SITE_URL . '/#webpage',
       'url'         => SITE_URL . '/',
-      'name'        => 'Multi Tools — Kumpulan Tools Online Gratis',
+      'name'        => 'Multi Tools — Kumpulan Tools Online',
       'isPartOf'    => ['@id' => SITE_URL . '/#website'],
       'about'       => ['@id' => SITE_URL . '/#organization'],
-      'description' => '30+ tools online gratis: text converter, image compressor, JSON formatter, QR generator, dan lainnya.',
+      'description' => '30+ tools online: text converter, image compressor, JSON formatter, QR generator, dan lainnya.',
       'inLanguage'  => 'id-ID',
       'breadcrumb'  => [
         '@type'           => 'BreadcrumbList',
@@ -34,8 +34,8 @@ $seo = [
     ],
     [
       '@type'       => 'ItemList',
-      'name'        => 'Daftar Tools Online Gratis',
-      'description' => 'Koleksi lengkap tools online gratis di Multi Tools',
+      'name'        => 'Daftar Tools Online',
+      'description' => 'Koleksi lengkap tools online di Multi Tools',
       'itemListElement' => [
         ['@type' => 'ListItem', 'position' => 1,  'name' => 'Case Converter',     'url' => SITE_URL . '/tools/case-converter'],
         ['@type' => 'ListItem', 'position' => 2,  'name' => 'Text Cleaner',       'url' => SITE_URL . '/tools/text-cleaner'],
@@ -69,7 +69,7 @@ require 'includes/header.php';
   </h1>
 
   <p class="hero-sub">
-    Kumpulan <strong>tools online gratis</strong> untuk developer, desainer,
+    Kumpulan <strong>tools online</strong> untuk developer, desainer,
     dan siapa saja yang ingin bekerja lebih cepat dan efisien.
   </p>
 
@@ -98,7 +98,7 @@ require 'includes/header.php';
   </div>
   <div class="stat">
     <span class="stat-value" data-target="100">0</span>
-    <span class="stat-label">% Gratis</span>
+    <span class="stat-label">Tools aktif</span>
   </div>
   <div class="stat">
     <span class="stat-value" data-target="0">0</span>

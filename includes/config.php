@@ -7,15 +7,15 @@
 // ── URL & Identitas Situs ──
 define('SITE_URL',    'https://multitools.test');
 define('SITE_NAME',   'Multi Tools');
-define('SITE_TAGLINE','Kumpulan Tools Online Gratis');
+define('SITE_TAGLINE','Kumpulan Tools Online untuk Developer & Desainer');
 define('SITE_LANG',   'id');
 define('SITE_LOCALE', 'id_ID');
 define('TWITTER_HANDLE', '@multitools');
 
 // ── Default SEO Meta (bisa di-override per halaman) ──
-define('DEFAULT_TITLE',       'Multi Tools — Kumpulan Tools Online Gratis untuk Developer & Desainer');
-define('DEFAULT_DESCRIPTION', 'Multi Tools menyediakan 30+ tools online gratis: text converter, image compressor, JSON formatter, QR generator, password generator, dan masih banyak lagi. Tanpa login, langsung pakai.');
-define('DEFAULT_KEYWORDS',    'multi tools, tools online gratis, text converter, image compressor, JSON formatter, QR generator, password generator, developer tools');
+define('DEFAULT_TITLE',       'Multi Tools — Kumpulan Tools Online untuk Developer & Desainer');
+define('DEFAULT_DESCRIPTION', 'Multi Tools menyediakan 30+ tools online: text converter, image compressor, JSON formatter, QR generator, password generator, dan masih banyak lagi. Tanpa login, langsung pakai.');
+define('DEFAULT_KEYWORDS',    'multi tools, tools online, text converter, image compressor, JSON formatter, QR generator, password generator, developer tools');
 define('DEFAULT_OG_IMAGE',    SITE_URL . '/assets/img/og-image.png');
 
 // ── Navigasi Dropdown ──

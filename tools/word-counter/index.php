@@ -7,11 +7,11 @@ require '../../includes/config.php';
 
 // Breadcrumb & SEO untuk halaman ini
 $seo = [
-  'title'       => 'Word Counter Online Gratis — Hitung Kata & Karakter | Multi Tools',
-  'description' => 'Hitung jumlah kata, karakter, kalimat, dan paragraf dari teks kamu secara realtime. Gratis, tanpa login, langsung di browser.',
+  'title'       => 'Word Counter Online — Hitung Kata & Karakter | Multi Tools',
+  'description' => 'Hitung jumlah kata, karakter, kalimat, dan paragraf dari teks kamu secara realtime. Tanpa login, langsung di browser.',
   'keywords'    => 'word counter, hitung kata online, karakter counter, word count, hitung karakter, multi tools',
-  'og_title'    => 'Word Counter Online — Hitung Kata & Karakter Gratis',
-  'og_desc'     => 'Hitung kata, karakter, kalimat, dan paragraf secara realtime. Gratis dan tanpa login.',
+  'og_title'    => 'Word Counter Online — Hitung Kata & Karakter',
+  'og_desc'     => 'Hitung kata, karakter, kalimat, dan paragraf secara realtime. Tanpa login, langsung pakai.',
   'breadcrumbs' => [
     ['name' => 'Beranda',    'url' => SITE_URL . '/'],
     ['name' => 'Text Tools', 'url' => SITE_URL . '/tools?cat=text'],
@@ -23,7 +23,7 @@ $seo = [
       '@type'       => 'WebPage',
       '@id'         => SITE_URL . '/tools/word-counter#webpage',
       'url'         => SITE_URL . '/tools/word-counter',
-      'name'        => 'Word Counter Online Gratis',
+      'name'        => 'Word Counter Online',
       'description' => 'Hitung kata, karakter, kalimat, dan paragraf secara realtime.',
       'isPartOf'    => ['@id' => SITE_URL . '/#website'],
       'inLanguage'  => 'id-ID',

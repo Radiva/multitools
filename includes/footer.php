@@ -19,7 +19,7 @@
     Multi<span class="dot">Tools</span>
   </span>
 
-  <span>Dibuat dengan ❤️ · Gratis selamanya</span>
+  <span>Dibuat dengan ❤️ · Langsung pakai, tanpa login</span>
 
   <nav aria-label="Footer links">
     <a href="/about">Tentang</a>
