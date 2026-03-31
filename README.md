@@ -32,3 +32,35 @@ HTML · CSS · JavaScript — tanpa framework, tanpa dependensi.
 ## Lisensi
 
 MIT
+
+## Daftar Tools
+### Text Tools
+- Word Counter
+- Case Converter
+- Lorem Ipsum Gen
+- Remove Duplicates
+- Text Diff Checker
+- Slug Generator
+- Reverse Text
+- Email Extractor
+- Text to Bullets
+- Whitespace Cleaner
+- Sort Lines
+
+### Enkripsi & Keamanan
+- MD5 Generator
+- SHA256 Generator
+- Base64 Encode/Decode
+- URL Encode/Decode
+- Password Generator
+- Password Strength
+- JWT Decoder
+- Bcrypt Generator
+- UUID Generator
+
+### Developer & Code
+- JSON Formater
+- HTML Minifier
+- CSS Minifier
+- JS Minifier
+- Regex Tester
