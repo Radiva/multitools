@@ -64,3 +64,32 @@ MIT
 - CSS Minifier
 - JS Minifier
 - Regex Tester
+- Cron parser
+- SQL Formatter
+- HTML Entity Coder
+- XML Validator
+- CSV to JSON
+- Code Beautifier
+
+### Konversi & Kalkulasi
+- Unit Converter
+- Kalkulator Persen
+- Base Converter
+- Roman Numerals
+- Timestamp Converter
+- Kalkulator Umur
+- Color Converter
+- Currency Converter
+- Kalkulator BMI
+- Timezone Converter
+
+### Gambar & Warna
+- Color Picker
+- Image to Base64
+- Image Compressor
+- Robots.txt Gen
+- HTTP Header Checker
+- WHOIS Lookup
+- Link Checker
+- Speed Tester
+- OG Preview
