@@ -35,61 +35,79 @@ MIT
 
 ## Daftar Tools
 ### Text Tools
-- Word Counter
-- Case Converter
-- Lorem Ipsum Gen
-- Remove Duplicates
-- Text Diff Checker
-- Slug Generator
-- Reverse Text
-- Email Extractor
-- Text to Bullets
-- Whitespace Cleaner
-- Sort Lines
+- [x] Word Counter
+- [x] Case Converter
+- [x] Lorem Ipsum Gen
+- [x] Remove Duplicates
+- [x] Text Diff Checker
+- [x] Slug Generator
+- [ ] Reverse Text
+- [ ] Email Extractor
+- [ ] Text to Bullets
+- [ ] Whitespace Cleaner
+- [ ] Sort Lines
 
 ### Enkripsi & Keamanan
-- MD5 Generator
-- SHA256 Generator
-- Base64 Encode/Decode
-- URL Encode/Decode
-- Password Generator
-- Password Strength
-- JWT Decoder
-- Bcrypt Generator
-- UUID Generator
+- [x] MD5 Generator
+- [x] SHA256 Generator
+- [x] Base64 Encode/Decode
+- [ ] URL Encode/Decode
+- [x] Password Generator
+- [ ] Password Strength
+- [ ] JWT Decoder
+- [x] Bcrypt Generator
+- [x] UUID Generator
 
 ### Developer & Code
-- JSON Formater
-- HTML Minifier
-- CSS Minifier
-- JS Minifier
-- Regex Tester
-- Cron parser
-- SQL Formatter
-- HTML Entity Coder
-- XML Validator
-- CSV to JSON
-- Code Beautifier
+- [ ] JSON Formater
+- [x] HTML Minifier
+- [x] CSS Minifier
+- [x] JS Minifier
+- [ ] Regex Tester
+- [ ] Cron parser
+- [ ] SQL Formatter
+- [ ] HTML Entity Coder
+- [ ] XML Validator
+- [ ] CSV to JSON
+- [ ] Code Beautifier
 
 ### Konversi & Kalkulasi
-- Unit Converter
-- Kalkulator Persen
-- Base Converter
-- Roman Numerals
-- Timestamp Converter
-- Kalkulator Umur
-- Color Converter
-- Currency Converter
-- Kalkulator BMI
-- Timezone Converter
+- [ ] Unit Converter
+- [ ] Kalkulator Persen
+- [ ] Base Converter
+- [ ] Roman Numerals
+- [ ] Timestamp Converter
+- [ ] Kalkulator Umur
+- [ ] Color Converter
+- [ ] Currency Converter
+- [ ] Kalkulator BMI
+- [ ] Timezone Converter
 
 ### Gambar & Warna
-- Color Picker
-- Image to Base64
-- Image Compressor
-- Robots.txt Gen
-- HTTP Header Checker
-- WHOIS Lookup
-- Link Checker
-- Speed Tester
-- OG Preview
+- [ ] Color Picker
+- [ ] Image to Base64
+- [ ] Image Compressor
+- [ ] Robots.txt Gen
+- [ ] HTTP Header Checker
+- [ ] WHOIS Lookup
+- [ ] Link Checker
+- [ ] Speed Tester
+- [ ] OG Preview
+
+### Dokumen & File
+ - [ ] PDF Merger
+ - [ ] CSV Editor
+ - [ ] Markdown to HTML
+ - [ ] File Size Converter
+ - [ ] Data Generator
+ - [ ] Invoice Generator
+ - [ ] Barcode Generator
+
+### Jaringan & Sistem
+ - [ ] IP Lookup
+ - [ ] Ping Tester
+ - [ ] DNS Lookup
+ - [ ] Subnet Calculator
+ - [ ] User Agent Parser
+ - [ ] Port Scanner
+ - [ ] SSL Checker
